@@ -6,7 +6,7 @@ written a line of code or have tinkered before, this course is built for you.
 ## Introduction video
 
 Watch the course introduction first:
-**[Introduction Video — link to be added on Canvas]**
+**[Introduction Video](https://youtu.be/0Hh288iY0Xg)**
 
 ## What this course is about
 
