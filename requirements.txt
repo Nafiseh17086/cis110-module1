@@ -1,0 +1,5 @@
+# Needed so VS Code can run the Lab 1 notebook
+ipykernel
+
+# Optional: to use JupyterLab in your browser instead of VS Code, also install:
+# jupyterlab
