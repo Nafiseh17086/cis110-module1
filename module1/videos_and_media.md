@@ -44,3 +44,13 @@ Chapters let you jump straight to your operating system and to the step you are 
 
 **Takeaway:** a working environment before the first live session, so the
 session can be spent on programming rather than installation.
+
+---
+
+# Module 2 — Videos and Media
+
+## Tracing a Loop by Hand
+**Module 2 · [Watch on YouTube](https://youtu.be/BqiXFT9rDJI)**
+
+Step through a loop one iteration at a time, keeping track of each variable's
+value on paper — the skill that lets you predict what code does before running it.
